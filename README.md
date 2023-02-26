@@ -13,15 +13,12 @@ for English captions and show that Albanian is a more complex language compared 
 ## Samples
 
 <p align="center">
-  <img src="/samples/best_1.png" width="350">
-  <img src="/samples/best_2.png" width="350">
+  <img src="/samples/best_1.png" width="250">
+  <img src="/samples/best_2.png" width="250">
 </p>
 
 
-[//]: # (![]&#40;/samples/best_1.png&#41;)
-
-[//]: # (![]&#40;/samples/best_2.png&#41;)
-
-[//]: # (![]&#40;/samples/bad_1.png&#41;)
-
-[//]: # (![]&#40;/samples/bad_2.png&#41;)
+<p align="center">
+  <img src="/samples/bad_1.png" width="250">
+  <img src="/samples/bad_2.png" width="250">
+</p>
