@@ -1,0 +1,7 @@
+Flask==2.2.3
+nltk==3.8.1
+pandas==1.5.3
+Pillow==9.4.0
+PyYAML==6.0
+torch==1.13.1
+torchvision==0.14.1
