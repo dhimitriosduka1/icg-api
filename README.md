@@ -12,7 +12,16 @@ for English captions and show that Albanian is a more complex language compared 
 
 ## Samples
 
-![](/samples/best_1.png)
-![](/samples/best_2.png)
-![](/samples/bad_1.png)
-![](/samples/bad_2.png)
+<p align="center">
+  <img src="/samples/best_1.png" width="350">
+  <img src="/samples/best_2.png" width="350">
+</p>
+
+
+[//]: # (![]&#40;/samples/best_1.png&#41;)
+
+[//]: # (![]&#40;/samples/best_2.png&#41;)
+
+[//]: # (![]&#40;/samples/bad_1.png&#41;)
+
+[//]: # (![]&#40;/samples/bad_2.png&#41;)
