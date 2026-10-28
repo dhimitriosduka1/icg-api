@@ -1,0 +1,8 @@
+*
+!artifacts/
+!src/
+!pyproject.toml
+!uv.lock
+!README.md
+!LICENCE
+**/__pycache__
